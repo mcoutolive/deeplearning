@@ -1,2 +1,3 @@
-# deeplearning
-Mini projeto de deeplearning para identificar emocoes humanas por meio de imagens aleatórias. 
+# Deeplearning
+
+Mini projeto de Deeplearning para identificar emocoes humanas por meio de imagens aleatórias. 
